@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+input {
+	width: 280px;
+	margin:20px 0;
+}
+
+#loginForm {
+	width: 80%;
+	margin: 20px auto;
+}
+
+
+#inre{
+	width: 100px;
+	float: right;
+	margin-right: 20px;
+}
+#error{
+	font-style:italic;
+	font-size:18px;
+	color:#C00;
+}

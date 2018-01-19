@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+#zhuyao{
+	margin-top:5px;
+}
+
+#main {
+	clear: both;
+	width: 1200px;
+	margin: 14px auto 0;
+	border:solid #3C6;
+}
+
